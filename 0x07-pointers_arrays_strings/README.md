@@ -1,6 +1,6 @@
 # 0x07. C - Even more pointers, arrays and strings
 
-Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learnabout pinters, arrays and string in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn more about pointers, arrays and string in **C language**.
 
 
 ## Technologies
