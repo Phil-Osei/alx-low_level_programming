@@ -1,4 +1,4 @@
-This repository contains all the coding projects I will be doing in ALX Software Engineering course about C programming language.
+This repository contains all the C programming language projects I will be doing in the ALX Software Engineering course.
 
 
 #0x00. C - Hello, World
