@@ -9,7 +9,7 @@
  *
  **@argv: array of arguments string
  *
- * Return: 
+ * Return: 1 if not enough arguments passed in, 0 otherwise
  *
  **/
 
