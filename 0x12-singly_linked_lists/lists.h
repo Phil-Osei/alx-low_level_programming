@@ -8,7 +8,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for alx projects
+ * for alx and holberton projects
  **/
 
 typedef struct list_s
