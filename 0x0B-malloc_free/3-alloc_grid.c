@@ -7,7 +7,7 @@
  *
  *@width: the width input
  *
- *@height: the height input
+ *@height: height input
  *
  *Return: pointer to 2 dimensional array
  *
