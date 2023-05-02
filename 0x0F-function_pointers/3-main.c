@@ -4,17 +4,17 @@
 #include "3-calc.h"
 
 /**
- * main - Entry point
- * Description: This program takes in command line
- * arguments and performs a specific operation
- *
- * @argc: The number of arguments
- *
- * @argv: array of pointers to the arguments
- *
- * Return: Always 0 (Succes)
- *
- */
+ ** main - Entry point
+ ** Description: This program takes in command line
+ ** arguments and performs a specific operation
+ **
+ ** @argc: The number of arguments
+ **
+ ** @argv: array of pointers to the arguments
+ **
+ ** Return: Always 0 (Succes)
+ **
+ **/
 
 int main(int __attribute__((__unused__)) argc, char *argv[])
 {
